@@ -1,0 +1,17 @@
+.snow{
+    background-color: rgb(230, 188, 195);
+}
+.borf{
+    border: solid;
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px; 
+    border-color:black;
+    text-align: center;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
